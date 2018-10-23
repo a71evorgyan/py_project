@@ -1,0 +1,33 @@
+2:34:40 (lmgrd) TIMESTAMP 6/5/2018
+5:04:32 (hclmd) OUT: "RaptorXs" rgraca@us01msemt260
+5:04:32 (hclmd) OUT: "VeloceRaptorX_ui" rgraca@us01msemt260
+5:05:12 (hclmd) OUT: "RaptorXs" rgraca@us01msemt260
+5:05:12 (hclmd) OUT: "Exalto_gds" rgraca@us01msemt260
+5:18:01 (hclmd) OUT: "VelocePolygonEngine" rgraca@us01msemt260
+5:20:20 (hclmd) IN: "VelocePolygonEngine" rgraca@us01msemt260
+5:20:21 (hclmd) OUT: "VeloceRaptor" rgraca@us01msemt260
+5:22:48 (hclmd) OUT: "MeshViewer" rgraca@us01msemt260
+5:25:13 (hclmd) IN: "MeshViewer" rgraca@us01msemt260
+5:50:27 (hclmd) DENIED: "HelicCentral_ui" mabde@ca06dwamd018  (Licensed number of users already reached. (-4,342))
+5:50:41 (hclmd) DENIED: "HelicCentral_ui" mabde@ca06dwamd018  (Licensed number of users already reached. (-4,342))
+6:22:30 (hclmd) IN: "VeloceRaptor" rgraca@us01msemt260
+6:22:31 (hclmd) IN: "RaptorXs" rgraca@us01msemt260
+6:22:31 (hclmd) IN: "Exalto_gds" rgraca@us01msemt260
+6:35:04 (hclmd) IN: "VeloceRaptorX_ui" rgraca@us01msemt260
+6:35:04 (hclmd) IN: "RaptorXs" rgraca@us01msemt260
+6:36:03 (hclmd) DENIED: "HelicCentral_ui" mabde@ca06dwamd018  (Licensed number of users already reached. (-4,342))
+6:36:12 (hclmd) DENIED: "HelicCentral_ui" mabde@ca06dwamd018  (Licensed number of users already reached. (-4,342))
+6:37:35 (hclmd) DENIED: "HelicCentral_ui" mabde@ca06dwamd018  (Licensed number of users already reached. (-4,342))
+6:37:39 (hclmd) DENIED: "HelicCentral_ui" mabde@ca06dwamd018  (Licensed number of users already reached. (-4,342))
+6:42:19 (hclmd) IN: "HelicCentral_ui" bhuvanan@ca06dwamd016
+7:00:00 (lmgrd) TIMESTAMP 6/6/2018
+7:01:49 (hclmd) OUT: "HelicCentral_ui" mabde@ca06dwamd018
+7:01:53 (hclmd) OUT: "RaptorXs" mabde@ca06dwamd018
+7:01:53 (hclmd) OUT: "VeloceRaptorX_ui" mabde@ca06dwamd018
+7:50:35 (hclmd) OUT: "RaptorXs" mabde@ca06dwamd018
+7:50:35 (hclmd) OUT: "Exalto_gds" mabde@ca06dwamd018
+7:55:12 (hclmd) OUT: "VelocePolygonEngine" mabde@ca06dwamd018
+7:55:13 (hclmd) IN: "VelocePolygonEngine" mabde@ca06dwamd018
+7:55:13 (hclmd) OUT: "VeloceRaptor" mabde@ca06dwamd018
+7:55:25 (hclmd) OUT: "MeshViewer" mabde@ca06dwamd018
+8:34:40 (lmgrd) TIMESTAMP 6/6/2018
