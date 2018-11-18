@@ -14,10 +14,12 @@
   - c)    22,23,24
   - d)    14,15,19
 
-**Solution** <br>The equivalence partitioning clesses will be 
+**Solution** 
+- The equivalence partitioning clesses will be 
   1. less than 18
   2. 18 - 21
-  3. greater than 21 <br> Only in c) all values are from the same class(3). So the answer is c) 22,23,24  
+  3. greater than 21   
+- Only in c) all values are from the same class(3). So the answer is c) 22,23,24  
 
 
 
