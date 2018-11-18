@@ -4,7 +4,7 @@
 | Test Case ID | Test Scenario | Test Steps | Test Data | Expected Results| Actual Results | Pass/Fail |
 |------|---------------| ---------- | --------- | -------- | ------- | --------- |
 |  \    | aaa           |            |           |          |         |           |
-        |  bbbb         |
+|  \    | bbbb         |
 
 
 
