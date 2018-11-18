@@ -8,14 +8,11 @@
 | TU03 | Check if the multiple options can be selected in each checkbox field | 1. Go to https://onex.am/en  <br> 2. Choose CALCULATOR OF SHIPPING in the right corner <br> 3. Select two or more options | | Two or more options shouldn't be selected | As expected | Pass
 | TU04 | Verify if the initial focus of the checkbox fields is on the first checkbox.| 1. Go to https://onex.am/en  <br> 2. Choose CALCULATOR OF SHIPPING in the right corner <br> 3. Make sure if the first checkbox selected | | Initially the first checkbox should be selected | As expected | Pass
 
-
-The Switch is switched off once the temperature falls below 18 and then it is turned on when the temperature is more than 21. Identify the Equivalence values which belong to the same class.
-
-a) 12,16,22
-
-b) 24,27,17
-c) 22,23,24
-d) 14,15,19
+**The Switch is switched off once the temperature falls below 18 and then it is turned on when the temperature is more than 21. Identify the Equivalence values which belong to the same class.**
+  - a)    12,16,22
+  - b)    24,27,17
+  - c)    22,23,24
+  - d)    14,15,19
 
 
 
