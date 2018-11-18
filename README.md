@@ -12,7 +12,7 @@
 
 
 | Header | Header | Right  |
-  ggg
+| ggg    |
 | ------ | ------ | -----: |
 |  Cell  |  Cell  |   $10  |
 |  Cell  |  Cell  |   $20  |
