@@ -15,6 +15,7 @@
   - d)    14,15,19
 
 **Solution**
+
 The equivalence partitioning clesses will be 
   1. less than 18
   2. 18 - 21
