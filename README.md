@@ -17,4 +17,4 @@ First header | Second header
 List:        | More  \
 - over       | data  \
 - several    |       \
-- lines      |
+- lines      |       \
