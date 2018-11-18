@@ -1,7 +1,10 @@
 # py_project
 
 
-| Test Case ID | Test Scenario | Test Steps | Test Data | Expected Results | Actual Results | Pass/Fail |
+| Test 
+  Case
+  ID | Test Scenario | Test Steps | Test Data | Expected  Actual  
+                                                Results | Results | Pass/Fail |
 | ------------ | ------------- | ---------- | --------- | ---------------- | -------------- | --------- |
 |    TU01      |               |            |           |                  |                |           |
 | ------------ | ------------- | ---------- | --------- | ---------------- | -------------- | --------- |
